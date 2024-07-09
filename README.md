@@ -8,7 +8,7 @@ Chamar o modulo em outro bp
 
 module "tags" {
   source        = "git::https://github.dev/TiagoBarbosa88/tags?git.VERSION"
-  description   = "Modulo de tags para indentificar o projeto de que time está provisionado"
+  description   = "Módulo de tags para indentificar o projeto de que time está provisionado"
 }
 
 
